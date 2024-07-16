@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 👑 Owner of gotti.tools
+
 <!--
 **JohnG0tti/JohnG0tti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
