@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 👑 Owner of gotti.tools
+
+- 👑 owner of gotti.tools
+- 💰 certified bag chaser
 
 <!--
 **JohnG0tti/JohnG0tti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
